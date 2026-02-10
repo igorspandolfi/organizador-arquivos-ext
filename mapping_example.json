@@ -1,0 +1,10 @@
+{
+  "md": "MARKDOWN",
+  "txt": "DOCUMENTOS",
+  "log": "LOGS",
+  "tmp": "TEMPORARIOS",
+  "bak": "BACKUP",
+  "zip": "COMPACTADOS",
+  "7z": "COMPACTADOS",
+  "rar": "COMPACTADOS"
+}

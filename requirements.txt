@@ -1,0 +1,17 @@
+# No external dependencies required
+# tkinter comes with Python by default (usually installed with the Python distribution)
+# Standard library modules used:
+#   - pathlib (file handling)
+#   - shutil (file operations)
+#   - argparse (CLI)
+#   - logging (logging)
+#   - json (config files)
+#   - threading (GUI responsiveness)
+#   - tkinter (GUI)
+
+# Optional dependencies for development:
+# pytest>=7.0          # Testing
+# black>=22.0          # Code formatting
+# isort>=5.0           # Import sorting
+# mypy>=0.900          # Type checking
+# flake8>=3.9          # Linting
