@@ -39,7 +39,7 @@ pip install organizador-arquivos-ext
 ### Instalação Local (desenvolvimento)
 
 ```bash
-git clone https://github.com/seuusuario/organizador-arquivos-ext.git
+git clone https://github.com/igorspandolfi/organizador-arquivos-ext.git
 cd organizador-arquivos-ext
 pip install -e .
 ```
@@ -269,4 +269,4 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Precisa de ajuda?** Abra uma [issue](https://github.com/seuusuario/organizador-arquivos-ext/issues).
+**Precisa de ajuda?** Abra uma [issue](https://github.com/igorspandolfi/organizador-arquivos-ext/issues).

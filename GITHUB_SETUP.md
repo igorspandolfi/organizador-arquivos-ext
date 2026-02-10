@@ -46,7 +46,7 @@ git commit -m "Initial commit: File organizer with CLI, GUI, and dry-run mode"
 ### 3. Conecte ao Repositório Remoto
 
 ```bash
-git remote add origin https://github.com/SEUUSER/organizador-arquivos-ext.git
+git remote add origin https://github.com/igorspandolfi/organizador-arquivos-ext.git
 git branch -M main
 git push -u origin main
 ```

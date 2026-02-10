@@ -4,7 +4,7 @@
 
 ```bash
 # Clone ou download
-git clone https://github.com/seuusuario/organizador-arquivos-ext.git
+git clone https://github.com/igorspandolfi/organizador-arquivos-ext.git
 cd organizador-arquivos-ext
 
 # Ambiente virtual (recomendado)
