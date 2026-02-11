@@ -79,49 +79,7 @@ organizador test_sample --dry-run
 | `LICENSE` | MIT License (permite uso livre) |
 | `Makefile` | Atalhos: `make install`, `make lint`, etc |
 
-## Próxima Ação: Publicar no PyPI
 
-Quando estiver pronto para liberar uma versão:
-
-```bash
-# Instale ferramentas de build
-pip install build twine
-
-# Build
-python -m build
-
-# Upload (requer conta PyPI)
-python -m twine upload dist/*
-```
-
-Depois será instalável por qualquer um com:
-```bash
-pip install organizador-arquivos-ext
-```
-
-## Configuraçoes Recomendadas no GitHub
-
-1. **Settings → General**
-   - Default branch: `main`
-   - Delete head branches: ✓
-
-2. **Settings → Code security**
-   - Dependabot alerts: ✓
-   - Dependabot security updates: ✓
-
-3. **Criando Releases**
-   - Vá para Releases
-   - "Create a new release"
-   - Tag: `v0.1.0`
-   - Title: `Release 0.1.0`
-   - Copy do CHANGELOG
-
-## Parabéns! 🎉
-
-Seu projeto está:
-- ✅ Estruturado profissionalmente
-- ✅ Documentado completamente
-- ✅ Pronto para GitHub
 - ✅ Pronto para PyPI
 - ✅ Com exemplos funcionando
 
