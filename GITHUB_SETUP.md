@@ -78,9 +78,3 @@ organizador test_sample --dry-run
 | `.gitignore` | O quê não fazer commit |
 | `LICENSE` | MIT License (permite uso livre) |
 | `Makefile` | Atalhos: `make install`, `make lint`, etc |
-
-
-- ✅ Pronto para PyPI
-- ✅ Com exemplos funcionando
-
-Agora é só fazer o push e compartilhar!
