@@ -5,7 +5,7 @@ ou tipo de mídia. Oferece CLI, GUI com Tkinter e suporte a mapeamento customiza
 """
 
 __version__ = "0.1.0"
-__author__ = "Seu Nome"
+__author__ = "igorspandolfi"
 __license__ = "MIT"
 
 from app import organizar_arquivos
